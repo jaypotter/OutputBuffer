@@ -11,6 +11,7 @@
         }
     ],
     "require": {
+        "php": "^8.0",
         "potter/loader": "^0.11"
     }
 }
