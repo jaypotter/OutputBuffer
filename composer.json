@@ -9,5 +9,7 @@
             "email": "jay@jaypotter.ca"
         }
     ],
-    "require": {}
+    "require": {
+        "potter/loader": "^0.11"
+    }
 }
