@@ -1,6 +1,7 @@
 {
     "name": "potter/ob",
     "description": "PHP 8 Output Buffer",
+    "minimum-stability": "dev",
     "type": "library",
     "license": "MIT",
     "authors": [
