@@ -1,0 +1,17 @@
+{
+    "name": "potter/ob",
+    "description": "PHP 8 Output Buffer",
+    "minimum-stability": "dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "jay@jaypotter.ca"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "potter/loader": "^0.11"
+    }
+}
