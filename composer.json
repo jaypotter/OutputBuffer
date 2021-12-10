@@ -1,0 +1,13 @@
+{
+    "name": "potter/ob",
+    "description": "PHP 8 Output Buffer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "jay@jaypotter.ca"
+        }
+    ],
+    "require": {}
+}
