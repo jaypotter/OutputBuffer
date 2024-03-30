@@ -5,7 +5,8 @@
     "require": {
         "php": "^8.3",
         "potter/output-buffer-interfaces": "dev-main",
-        "potter/output-buffer-traits": "dev-main"
+        "potter/output-buffer-traits": "dev-main",
+        "potter/output-buffer-aware": "dev-main"
     },
     "suggest": {
         "potter/buffer": "dev-main",
