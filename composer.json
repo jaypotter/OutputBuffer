@@ -7,6 +7,11 @@
         "potter/output-buffer-interface": "dev-main",
         "potter/output-buffer-trait": "dev-main"
     },
+    "suggest": {
+        "potter/buffer": "dev-main",
+        "potter/components": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
